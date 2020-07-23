@@ -1,4 +1,4 @@
-## Hello there <!-- general kenobi -->! I'm Milo! :wave:
+## Hello there<!-- general kenobi -->! I'm Milo! :wave:
 
 ### I'm a 16 y/o software engineer and aspiring entrepreneur
 * Senior Dev at [disbots.gg](https://disbots.gg/)
