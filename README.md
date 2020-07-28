@@ -6,8 +6,10 @@
 * Developed an async Hypixel API wrapper in python called [aiopypixel](https://github.com/Villager-Dev/aiopypixel)
 * Founder of [Gaming A Safer Pandemic](https://saferpandemic.com) (GASP)
 
+<!--
 ### What languages do I know?
 * Well acquainted with Python
 * Some Java
 * Some batch
 * Currently learning JavaScript (Node.js specifically)
+-->
