@@ -5,7 +5,7 @@
 * Created [Villager Bot](https://github.com/Villager-Dev/Villager-Bot), a useful and entertaining Discord bot
 * Developed an async Hypixel API wrapper in python called [aiopypixel](https://github.com/Villager-Dev/aiopypixel)
 * Founder of [Gaming A Safer Pandemic](https://saferpandemic.com) (GASP)
-* Currently learning JavaScript, am familiar with Python
+* Currently learning JavaScript, already familiar with Python and batch
 
 <!--
 ### What languages do I know?
