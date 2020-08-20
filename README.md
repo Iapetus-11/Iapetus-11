@@ -5,7 +5,7 @@
 * Senior Dev at [disbots.gg](https://disbots.gg/)
 * Created [Villager Bot](https://github.com/Villager-Dev/Villager-Bot), a useful and entertaining Discord bot
 * Developed an async Hypixel API wrapper in python called [aiopypixel](https://github.com/Villager-Dev/aiopypixel)
-* Created [Classy-Json](https://github.com/Iapetus-11/Classy-Json), JavaScript-like json usage in Python
+* Created [classy-json](https://github.com/Iapetus-11/classy-json), JavaScript-like json usage in Python
 * Founded the currently a work in progress api [BetterAPI](https://github.com/Better-API)
 * Currently learning JavaScript/Node, already familiar with Python and batch
 
