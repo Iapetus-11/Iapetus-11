@@ -1,6 +1,6 @@
 ## Hello there<!-- general kenobi -->! I'm Milo! :wave:
 ### I'm a 16 y/o software engineer and aspiring entrepreneur
-    [PYPI](https://pypi.org/user/Iapetus11/) | Discord: `Iapetus11#6821`
+   [PYPI](https://pypi.org/user/Iapetus11/) | Discord: `Iapetus11#6821`
 
 * Senior Dev at [disbots.gg](https://disbots.gg/)
 * Created [Villager Bot](https://github.com/Villager-Dev/Villager-Bot), a useful and entertaining Discord bot
