@@ -7,7 +7,8 @@
 * Created [classy-json](https://github.com/Iapetus-11/classy-json), JavaScript-like json usage in Python
 * Developed an async Hypixel API wrapper in python called [aiopypixel](https://github.com/Villager-Dev/aiopypixel)
 * Founded the currently a work in progress api [BetterAPI](https://github.com/Iapetus-11/Better-API)
-* Currently learning JavaScript/Node, already familiar with Python and batch
+* Well aquainted with Python, and familiar with some batch and Java.
+* Currently learning JavaScript/Node.
 
 <!--
 ### What languages do I know?
