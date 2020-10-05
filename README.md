@@ -6,7 +6,7 @@
 * Created [classy-json](https://github.com/Iapetus-11/classy-json), JavaScript-like json usage / dictionary "dot access" in Python
 * Developed an async Hypixel API wrapper in python called [aiopypixel](https://github.com/Villager-Dev/aiopypixel)
 * Senior developer at [disbots.gg](https://disbots.gg/)
-* Well aquainted with Python, and familiar with some batch and Java, and a little bit of Javascript/Node
+* Well aquainted with Python, and familiar with some batch and Js/Node.js, I also have some minimal experience in Java
 
 <!--
 ### What languages do I know?
