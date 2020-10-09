@@ -8,10 +8,20 @@
 * Developed an async Hypixel API wrapper in python called [aiopypixel](https://github.com/Villager-Dev/aiopypixel)
 * Senior developer at [disbots.gg](https://disbots.gg/)
 
+#### Notable Personal Projects
+* [Villager Bot](https://github.com/Villager-Dev/Villager-Bot) A Discord bot invited and used by tens of thousands of people
+* [Better-API](https://github.com/Iapetus-11/Better-API] My first foray into JavaScript and Express (Better-API has now been replaced by [this](https://github.com/Villager-Dev/Villager-API))
+* [To-ASCII](https://github.com/Iapetus-11/to-ascii) An image and video manipulation tool with command line support which turns media into ascii art
+
+#### Notable Other Projects
+* Did backend work on https://disbots.gg/ and created the Discord bots which keep it running smoothly
+* [pydisbots](https://github.com/disbots-gg/pydisbots) The Python library/wrapper for the disbots.gg API
+* [disbots.js](https://github.com/disbots-gg/disbots.js) The JavaScript library/wrapper for the disbots.gg API
+
 <!--
 ### What languages do I know?
 * Well acquainted with Python
 * Some Java
-* Some batch
+* Some batch 
 * Currently learning JavaScript (Node.js specifically)
 -->
