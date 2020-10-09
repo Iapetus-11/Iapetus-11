@@ -10,7 +10,7 @@
 
 #### Notable Personal Projects
 * [Villager Bot](https://github.com/Villager-Dev/Villager-Bot) A Discord bot invited and used by tens of thousands of people
-* [Better-API](https://github.com/Iapetus-11/Better-API] My first foray into JavaScript and Express (Better-API has now been replaced by [this](https://github.com/Villager-Dev/Villager-API))
+* [Better-API](https://github.com/Iapetus-11/Better-API) My first (crappy) foray into JavaScript and Express (Better-API has now been replaced by [this](https://github.com/Villager-Dev/Villager-API))
 * [To-ASCII](https://github.com/Iapetus-11/to-ascii) An image and video manipulation tool with command line support which turns media into ascii art (On PYPI [here](https://pypi.org/project/to-ascii/))
 
 #### Notable Other Projects
