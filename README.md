@@ -12,6 +12,7 @@
 #### Other
 * Currently part of [codebyte](https://codebyte.team/)
 * Did backend work for disbots.gg, an old retired codebyte project
+* Now working on the backend for Haven, another codebyte project!
 
 <!--
 #### Notable Other Projects
