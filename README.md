@@ -9,11 +9,6 @@
 * [To-ASCII](https://github.com/Iapetus-11/to-ascii) An image and video manipulation tool with command line support which turns media into ascii art (On PYPI [here](https://pypi.org/project/to-ascii/))
 * [iapetus11.me](https://iapetus11.me) My first modern looking website, built with tailwind and Python
 
-#### Other
-* Currently part of [codebyte](https://codebyte.team/)
-* Did backend work for disbots.gg, an old retired codebyte project
-* Now working on the backend for Haven, another codebyte project!
-
 <!--
 #### Notable Other Projects
 * Did backend work on https://disbots.gg/ and created the Discord bots which keep it running smoothly
