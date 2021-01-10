@@ -1,5 +1,5 @@
 ## Hello there<!-- general kenobi -->! I'm Milo! :wave:
-[Website](https://iapetus11.me/) | [PYPI](https://pypi.org/user/Iapetus11/) | Discord: `Iapetus11#6821`
+[Website](https://iapetus11.me/) | [PYPI](https://pypi.org/user/Iapetus11/) | [People I've Helped](https://github.com/Iapetus-11/The-Helped) | Discord: `Iapetus11#6821`
 
 * Well aquainted with [Python](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=python), familiar with some [batch](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=batchfile) and [Js/Node.js](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=javascript), and also have some minimal experience in [Java](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=java)
 
