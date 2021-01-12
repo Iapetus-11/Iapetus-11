@@ -10,7 +10,7 @@
 * [iapetus11.me](https://iapetus11.me) My first modern looking website, built with tailwind and Python
 * [PyMine](https://github.com/py-mine/PyMine) A speedy, moddable, and 100% Python-based Minecraft server
 
-<img align="right" src="https://api.ghprofile.me/view?username=iapetus-11&style=flat&color=68d9a4">
+<img align="right" src="https://api.ghprofile.me/view?username=iapetus-11&style=flat&color=grey">
 
 <!--
 #### Notable Other Projects
