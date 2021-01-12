@@ -1,5 +1,5 @@
 ## Hello there<!-- general kenobi -->! I'm Milo! :wave:
-[Website](https://iapetus11.me/) | [PYPI](https://pypi.org/user/Iapetus11/) | [Testimonials](https://github.com/Iapetus-11/The-Helped) | Discord: `Iapetus11#6821`
+[Website](https://iapetus11.me/) | [PYPI](https://pypi.org/user/Iapetus11/) | [Testimonials](https://github.com/Iapetus-11/The-Helped) | Discord: `Iapetus11#6821` <img align="right" src="https://api.ghprofile.me/view?username=iapetus-11&style=flat&color=grey">
 
 * Well aquainted with [Python](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=python), familiar with some [batch](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=batchfile) and [Js/Node.js](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=javascript), and also have some minimal experience in [Java](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=java)
 
@@ -9,8 +9,6 @@
 * [To-ASCII](https://github.com/Iapetus-11/to-ascii) An image and video manipulation tool with command line support which turns media into ascii art (On PYPI [here](https://pypi.org/project/to-ascii/))
 * [iapetus11.me](https://iapetus11.me) My first modern looking website, built with tailwind and Python
 * [PyMine](https://github.com/py-mine/PyMine) A speedy, moddable, and 100% Python-based Minecraft server
-
-<img align="right" src="https://api.ghprofile.me/view?username=iapetus-11&style=flat&color=grey">
 
 <!--
 #### Notable Other Projects
