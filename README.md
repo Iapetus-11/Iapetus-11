@@ -1,5 +1,5 @@
 ## Hello there<!-- general kenobi -->! I'm Milo! :wave:
-[Website](https://iapetus11.me/) | [PYPI](https://pypi.org/user/Iapetus11/) | [Testimonials](https://github.com/Iapetus-11/The-Helped) | Discord: `Iapetus11#6821` <img align="right" src="https://api.ghprofile.me/view?username=iapetus-11&style=flat&color=grey">
+[Website](https://iapetus11.me/) | [Testimonials](https://github.com/Iapetus-11/The-Helped) | Discord: `Iapetus11#6821`
 
 * Well aquainted with [Python](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=python), familiar with some [batch](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=batchfile) and [Js/Node.js](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=javascript), and also have some minimal experience in [Java](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=java)
 
@@ -10,16 +10,5 @@
 * [iapetus11.me](https://iapetus11.me) My first modern looking website, built with tailwind and Python
 * [PyMine](https://github.com/py-mine/PyMine) A speedy, moddable, and 100% Python-based Minecraft server
 
-<!--
-#### Notable Other Projects
-* Did backend work on https://disbots.gg/ and created the Discord bots which keep it running smoothly
-* [pydisbots](https://github.com/disbots-gg/pydisbots) The Python library/wrapper for the disbots.gg API (Published on PYPI [here](https://pypi.org/project/pydisbots/))
-* [disbots.js](https://github.com/disbots-gg/disbots.js) The JavaScript library/wrapper for the disbots.gg API (Published on NPM [here](https://www.npmjs.com/package/disbots.js))
--->
-<!--
-### What languages do I know?
-* Well acquainted with Python
-* Some Java
-* Some batch 
-* Currently learning JavaScript (Node.js specifically)
--->
+#### Other Links
+* [PYPI](https://pypi.org/user/Iapetus11/)
