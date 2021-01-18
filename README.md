@@ -6,10 +6,10 @@
 
 #### Notable Projects
 * [Villager Bot](https://github.com/Villager-Dev/Villager-Bot) A Discord bot invited and used by tens of thousands of people
-* [Villager-API](https://github.com/Villager-Dev/Villager-API) An API written in JavaScript and Python, utilized by Villager Bot and others!
-* [To-ASCII](https://github.com/Iapetus-11/to-ascii) An image and video manipulation tool with command line support which turns media into ascii art (On PYPI [here](https://pypi.org/project/to-ascii/))
 * [iapetus11.me](https://iapetus11.me) My first modern looking website, built with tailwind and Python
 * [PyMine](https://github.com/py-mine/PyMine) A speedy, moddable, and 100% Python-based Minecraft server
+* [Villager-API](https://github.com/Villager-Dev/Villager-API) An API written in JavaScript and Python, utilized by Villager Bot and others!
+* [To-ASCII](https://github.com/Iapetus-11/to-ascii) An image and video manipulation tool with command line support which turns media into ascii art (On PYPI [here](https://pypi.org/project/to-ascii/))
 
 #### Other Links
 * [PYPI](https://pypi.org/user/Iapetus11/)
