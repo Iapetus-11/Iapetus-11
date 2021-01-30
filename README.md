@@ -1,7 +1,7 @@
 ## Hello there<!-- general kenobi -->! I'm Milo! :wave:
 [Website](https://iapetus11.me/) | [Testimonials](https://github.com/Iapetus-11/The-Helped) | Discord: `Iapetus11#6821`
 
-* I know [Python](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=python) very well, some [batch](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=batchfile) and [Js/Node.js](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=javascript), and also have some minimal experience in [Java](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=java)
+* Proficient in [Python](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=python), some [batch](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=batchfile) and [Js/Node.js](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=javascript), and some minimal experience in [Java](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=java)
 * **Available** for hire! DM me on Discord or open an issue on https://github.com/Iapetus-11/Iapetus-11/
 
 #### Notable Projects
