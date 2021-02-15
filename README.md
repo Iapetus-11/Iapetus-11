@@ -10,6 +10,7 @@
 * [PyMine](https://github.com/py-mine/PyMine) A speedy, moddable, and 100% Python-based Minecraft server
 * [Villager-API](https://github.com/Villager-Dev/Villager-API) An API written in JavaScript and Python, utilized by Villager Bot and others!
 * [To-ASCII](https://github.com/Iapetus-11/to-ascii) An image and video manipulation tool with command line support which turns media into ascii art (On PYPI [here](https://pypi.org/project/to-ascii/))
+* [Potato](https://github.com/Iapetus-11/Potato) A Nim library for most-things Minecraft! (And for me to learn Nim)
 
 #### Other Links
 * [PYPI](https://pypi.org/user/Iapetus11/)
