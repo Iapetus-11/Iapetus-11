@@ -1,5 +1,5 @@
 ## Hello there<!-- general kenobi -->! I'm Milo! :wave:
-[Website](https://iapetus11.me/) | [Teaching Testimonials](https://github.com/Iapetus-11/The-Helped) | Discord: `Iapetus11#6821`
+[Website](https://iapetus11.me/) | [Teaching Testimonials](https://github.com/Iapetus-11/The-Helped) | Discord: [`Iapetus11#6821`](https://discord.com/users/536986067140608041)
 
 * Proficient in [Python](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=python), some [Nim](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=nim) and [Js/Node.js](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=javascript), and some minimal experience in [Java](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=java)
 * **Available** for hire! DM me on Discord or open an issue on https://github.com/Iapetus-11/Iapetus-11/
