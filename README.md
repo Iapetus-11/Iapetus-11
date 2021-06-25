@@ -8,8 +8,9 @@
 * [Villager Bot](https://github.com/Iapetus-11/Villager-Bot) - A Discord bot invited and used by tens of thousands of people
 * [iapetus11.me](https://iapetus11.me) - My first modern looking website, built with tailwind and Nim
 * [PyMine](https://github.com/py-mine/PyMine) - A speedy, moddable, and 100% Python-based Minecraft server
-* [Villager-API](https://github.com/Iapetus-11/Villager-API) - An API written in JavaScript and Python, utilized by Villager Bot and others!
+* [petu-api](https://github.com/Iapetus-11/petu-api) - An API written in JavaScript using Express, for my miscellaneous projects
 * [To-ASCII](https://github.com/Iapetus-11/to-ascii) - An image and video manipulation tool with command line support which turns media into ascii art (On PYPI [here](https://pypi.org/project/to-ascii/))
+* [minecraft.global](https://minecraft.global/) - A Minecraft server listing site, with advanced search features and more
 
 #### Other Links
 * [PYPI](https://pypi.org/user/Iapetus11/)
