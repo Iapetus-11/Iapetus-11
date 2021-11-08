@@ -11,7 +11,7 @@
 - [api.iapetus11.me](https://github.com/Iapetus-11/petu-api) - An API written in JavaScript using Express, for my miscellaneous projects
 - [To-ASCII](https://github.com/Iapetus-11/to-ascii) - An image and video manipulation tool with command line support which turns media into ASCII art (On PYPI [here](https://pypi.org/project/to-ascii/))
 - [minecraft.global](https://minecraft.global/) - A Minecraft server listing site, with advanced search features and more
-- [MinecraftGlobalAnalytics](https://https://github.com/minecraft-global/minecraft-global-analytics) - A Minecraft server plugin that facilitates statistics for servers on [minecraft.global](https://minecraft.global/)
+- [MinecraftGlobalAnalytics](https://github.com/minecraft-global/minecraft-global-analytics) - A Minecraft server plugin that facilitates statistics for servers on [minecraft.global](https://minecraft.global/)
 
 <!-- #### Other Links
 * [PYPI](https://pypi.org/user/Iapetus11/)
