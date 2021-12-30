@@ -11,7 +11,6 @@
 - [api.iapetus11.me](https://github.com/Iapetus-11/petu-api) - An API written using Express.js, for miscellaneous projects of mine
 - [To-ASCII](https://github.com/Iapetus-11/to-ascii) - An image and video manipulation tool with command line support which turns media into ASCII art
 - [minecraft.global](https://minecraft.global/) - A Minecraft server listing site, with advanced search features and more
-- [MinecraftGlobalAnalytics](https://github.com/minecraft-global/minecraft-global-analytics) - A Minecraft server plugin that facilitates statistics for servers on [minecraft.global](https://minecraft.global/)
 - [Space Blazer](https://github.com/Iapetus-11/space-blazer) - A side scrolling space shooter, partially inspired by Star Blazer for the Apple II
 
 <!-- #### Other Links
