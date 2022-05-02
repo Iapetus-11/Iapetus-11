@@ -6,7 +6,7 @@
 
 ### Notable Projects
 - [Villager Bot](https://github.com/Iapetus-11/Villager-Bot) - A Discord bot invited and used by tens of thousands of people
-- [iapetus11.me](https://iapetus11.me) - My first modern looking website, built with TailwindCSS, FastAPI, and Python
+- [iapetus11.me](https://iapetus11.me) - My portfolio / personal website, built with TailwindCSS, FastAPI, and Python
 - [api.iapetus11.me](https://github.com/Iapetus-11/api.iapetus11.me) - An API written in C# using Asp.Net, for miscellaneous projects of mine
 - [PyMine-Server](https://github.com/py-mine/PyMine-Server) - A speedy, moddable, and 100% Python-based Minecraft server
 - [To-ASCII](https://github.com/Iapetus-11/to-ascii) - An image and video manipulation tool with command line support which turns media into ASCII art
