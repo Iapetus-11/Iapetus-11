@@ -2,7 +2,7 @@
 [Website](https://iapetus11.me/) | [Recommendations](https://github.com/Iapetus-11/recommendations) | Discord: `Iapetus11#6821` | [LinkedIn](https://www.linkedin.com/in/milo-weinberg/)
 
 - Proficient in [Python](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=python), and some [Js/Node.js](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=javascript), [Nim](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=nim), [C#](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=c%23) and [Java](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=java)
-- Currently working on [minecraft.global](https://minecraft.global/) and miscellaneous smaller projects
+- Currently working on [minecraft.global](https://minecraft.global/), commissions, and miscellaneous smaller projects
 
 ### Notable Projects
 - [Villager Bot](https://github.com/Iapetus-11/Villager-Bot) - A Discord bot invited and used by tens of thousands of people
