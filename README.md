@@ -2,4 +2,4 @@
 [Website](https://iapetus11.me/) | [Referrals](https://github.com/Iapetus-11/referrals) | Discord: `iapetus11` | [LinkedIn](https://www.linkedin.com/in/milo-weinberg/)
 
 - Proficient in [Python](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=python), [JavaScript](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=javascript), [TypeScript](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=typescript), [C#](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=c%23), and some [Nim](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=nim), [Elixir](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=elixir), and [Rust](https://github.com/Iapetus-11?tab=repositories&q=&type=&language=rust). Check out [my website](https://iapetus11.me/) for a more complete list of technologies / frameworks / tools I know.
-- Currently working at [MedShift](https://github.com/MedShift) and messing with some personal projects
+- Currently working at [MedShift](https://github.com/MedShift) and messing with some personal projects as well as learning Gleam
